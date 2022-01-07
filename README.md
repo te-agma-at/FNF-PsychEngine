@@ -1,5 +1,5 @@
-# Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+# Friday Night Funkin' - Psych Engine Expanded
+Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders. Now with more features I guess
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
@@ -12,6 +12,7 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 
 ## Credits:
 * Shadow Mario - Coding
+* te-agma-at - Made Psych Engine Expanded
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
 
@@ -34,6 +35,15 @@ _____________________________________
 ## Mod Support
 * Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
 * Comes with a Mod Organizing/Disabling Menu. 
+
+## EXPANDED Features
+* Winning Icons!
+* EXPANDED Lua Support!
+* Shaders, probably
+* You can now mess with note graphics in Lua
+* More achievements
+* Mechanics from Hypno's Lullaby
+* And more to come in the near future!
 
 
 ## Atleast one change to every week:
